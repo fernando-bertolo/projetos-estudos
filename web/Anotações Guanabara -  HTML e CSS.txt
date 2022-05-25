@@ -1,0 +1,10 @@
+Anotações Guanabara - HTML e CSS
+
+gustavoguanabara.github.io
+github.com/gustavoguanabara
+
+Referencias online
+- Referencia MDN(mozila developer network)
+- W3C Standards(World Wide Web Consortium)
+- WHATWG Living Standard(Web Hypertext Application Technology Working Group)
+- W3Schools(Refsnes Data)
